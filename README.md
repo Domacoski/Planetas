@@ -3,7 +3,7 @@
 
 ## Getting Started
 App em Flutter, realiza a consulta de uma lista de planetas e exibe.
-Ao clicar em um planeta, será exibida os detalhes.
+Clicando em um planeta, será exibido os detalhes.
 
 ## Conceitos Utilizados
 - [Clean Architecture](https://medium.com/@lopesvinicius1707/o-uso-da-clean-architeture-uma-abordagem-modular-b0905b59ab74);

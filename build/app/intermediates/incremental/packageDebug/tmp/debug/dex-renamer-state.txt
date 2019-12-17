@@ -1,0 +1,4 @@
+#Tue Dec 17 13:52:26 BRST 2019
+base.0=/home/thiago/kgit/lista_planetas/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

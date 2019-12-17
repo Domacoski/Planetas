@@ -1,0 +1,28 @@
+name: lista_planetas
+description: Lista de planetas dos Sistema Solar
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0+2
+  transparent_image: ^1.0.0
+  provider: ^3.0.0
+  equatable: ^0.4.0
+  dartz: ^0.8.6
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  image_test_utils: ^1.0.0
+
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true

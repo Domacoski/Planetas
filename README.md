@@ -8,9 +8,9 @@ Ao clicar em um planeta, será exibida os detalhes.
 ## Conceitos Utilizados
 - [Clean Architecture](https://medium.com/@lopesvinicius1707/o-uso-da-clean-architeture-uma-abordagem-modular-b0905b59ab74);
 - [Provider](https://pub.dev/packages/provider)
-- [Repository Pattern] (https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/)
+- [Repository Pattern](https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/)
 
-![](screenshot.gif)
+![](screenshot.gif |width=100)
 
 
  ## Contribuição

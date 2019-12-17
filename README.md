@@ -10,7 +10,7 @@ Clicando em um planeta, será exibido os detalhes.
 - [Provider](https://pub.dev/packages/provider)
 - [Repository Pattern](https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/)
 
-![](screenshot.gif =250x)
+![screenshot](screenshot.gif =250x)
 
 
  ## Contribuição

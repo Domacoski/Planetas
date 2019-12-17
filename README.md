@@ -16,7 +16,7 @@ Clicando em um planeta, será exibido os detalhes.
  ## Contribuição
  Caso queria contribuir com o código, faça os seguintes passos:
 
- 1. Faça o fork do projeto (https://github.com/yourname/yourproject/fork)
+ 1. Faça o fork do projeto (https://github.com/Domacoski/Planetas/fork)
  2. Crie uma branch para sua modificação (git checkout -b feature/fooBar)
  3. Faça o commit (git commit -am 'Add some fooBar')
  4. Push (git push origin feature/fooBar)

@@ -5,12 +5,12 @@
 App em Flutter, realiza a consulta de uma lista de planetas e exibe.
 Clicando em um planeta, será exibido os detalhes.
 
+![screenshot](screenshot.gif)
+
 ## Conceitos Utilizados
 - [Clean Architecture](https://medium.com/@lopesvinicius1707/o-uso-da-clean-architeture-uma-abordagem-modular-b0905b59ab74);
 - [Provider](https://pub.dev/packages/provider)
 - [Repository Pattern](https://blog.kylegalbraith.com/2018/03/06/getting-familiar-with-the-awesome-repository-pattern/)
-
-![screenshot](screenshot.gif)
 
 
  ## Contribuição
